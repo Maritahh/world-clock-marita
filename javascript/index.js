@@ -25,9 +25,9 @@ function updateTime() {
     );
   }
 
-  // Mexico City
+  // Oslo
   let osloElement = document.querySelector("#oslo");
-  if (osloElementElement) {
+  if (osloElement) {
     let osloDateElement = osloElement.querySelector(".date");
     let osloTimeElement = osloElement.querySelector(".time");
     let osloTime = moment().tz("Europe/Oslo");
