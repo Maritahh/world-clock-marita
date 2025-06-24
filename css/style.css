@@ -61,6 +61,11 @@ select {
 
 footer {
   text-align: center;
-  font-size: 16px;
+  font-size: 15px;
   color: rgba(0, 0, 0, 0.6);
+}
+
+a {
+  color: #9c977c;
+  text-decoration: none;
 }
