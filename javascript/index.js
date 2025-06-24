@@ -44,6 +44,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
     </div>
+    <a href="https://world-clock-marita.netlify.app">Back to main page</a>
   `;
 }
 
